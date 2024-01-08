@@ -7,4 +7,4 @@ Find out more:
 
 👉 [Sundial case study](https://project-sundial.github.io/)
 
-👉 [My Website](www.sofalere.com)
+👉 [My Website](https://www.sofalere.com)
