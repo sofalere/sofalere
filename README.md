@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Sofia.
 I'm a full stack software engineer based in Chicago, IL.
 
-Recently, I created Sundial an open-source, open-source cron job monitoring and management system that provides real-time bi-directional communication between the user and registered crontabs on one or multiple nodes. For the developer, Sundial provides alerts of cron jobs failing to run or running abnormally along with any error messages, as well as a a centralized dashboard to edit crontabs from.
+Recently, I created Sundial an open-source, self hosted cron job monitoring and management system that provides job execution data and alerts, centralized error logs, and the ability to perform CRUD operations on jobs in crontabs across multiple nodes. For the developer, Sundial ensures that their cronjobs will never fail silently again. Plus, no more emailed error logs!
 
 Find out more:
 
